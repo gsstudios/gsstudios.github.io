@@ -2,16 +2,22 @@
 
 Here you can Download my current DorimanX kernel releases, view my kernel source and visit my XDA threads.
 
-#XDA Developers Threads
+# XDA Developers Threads
 
 JB DorimanX Kernel thread (i9100) - Development Discontinued:
 http://forum.xda-developers.com/galaxy-s2/development-derivatives/kernel-dorimanx-jb-4-2-x-t3167895
+Latest Build: 8.45 v006 (BETA)
 
 KK DorimanX Kernel thread (i9100) - Development Discontinued:
 http://forum.xda-developers.com/galaxy-s2/development-derivatives/kernel-dorimanx-jb-4-4-4-t3123487
+Latest Build: 10.50 v009 (STABLE)
 
 LP/MM DorimanX Kernel thread (i9100) - Development Discontinued:
 http://forum.xda-developers.com/galaxy-s2/development-derivatives/kernel-dorimanx-lp-5-x-x-t3145879
+Latest Build: 12.0 b013 (STABLE)
+
+N DorimanX Kernel thread (i9100) - Coming soon :) 
+Latest Build: None
 
 # Downloads
 
@@ -27,7 +33,7 @@ https://github.com/gsstudios/Dorimanx-SG2-I9100-Kernel/releases
 
 DorimanX kernel:
 
-Current Maintainer of the branch 11.XX - 12.XX gsstudios @gsstudios. 
+Current Maintainer of the branch 10.XX, 12.XX, 13.XX gsstudios @gsstudios. 
 
 Current Maintainer of branch 8.XX chhapil @chhapil and GreekDragon @dragonGR. 
 
