@@ -13,9 +13,6 @@ http://forum.xda-developers.com/galaxy-s2/development-derivatives/kernel-doriman
 LP/MM DorimanX Kernel thread (i9100) - Development Discontinued:
 http://forum.xda-developers.com/galaxy-s2/development-derivatives/kernel-dorimanx-lp-5-x-x-t3145879
 
-N DorimanX Kernel thread (i9100) - Coming soon :) 
-Latest Build: None
-
 # Downloads
 
 DorimanX kernel (i9100)
@@ -30,11 +27,11 @@ https://github.com/gsstudios/Dorimanx-SG2-I9100-Kernel/releases
 
 DorimanX kernel:
 
-Current Maintainer of the branch 10.XX, 12.XX, 13.XX gsstudios @gsstudios. 
+Current Maintainer of the branch 10.XX, 12.XX: @gsstudios. 
 
-Current Maintainer of branch 8.XX chhapil @chhapil and GreekDragon @dragonGR. 
+Current Maintainer of branch 8.XX: @chhapil and @dragonGR. 
 
-Original Author and all the credits go to Dorimanx @dorimanx. 
+Original Author and all the credits go to @dorimanx. 
  
 # Source
 
