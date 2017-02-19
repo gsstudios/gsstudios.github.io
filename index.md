@@ -4,23 +4,22 @@ Here you can Download my current DorimanX kernel releases, view my kernel source
 
 # XDA Developers Threads
 
-[JB DorimanX Kernel thread (i9100)](http://forum.xda-developers.com/galaxy-s2/development-derivatives/kernel-dorimanx-jb-4-2-x-t3167895 "JB XDA Kernel thread") - Development Discontinued:
+[JB DorimanX Kernel thread (i9100)](http://forum.xda-developers.com/galaxy-s2/development-derivatives/kernel-dorimanx-jb-4-2-x-t3167895 "JB XDA Kernel thread") - Development Discontinued - Latest Build: [8.45 v006 (BETA)](https://www.androidfilehost.com/?fid=24269982087001951 "Download latest JB kernel from AFH")
 
-[KK DorimanX Kernel thread (i9100)](http://forum.xda-developers.com/galaxy-s2/development-derivatives/kernel-dorimanx-jb-4-4-4-t3123487 "KK XDA Kernel thread") - Development Discontinued:
 
-[LP/MM DorimanX Kernel thread (i9100)](http://forum.xda-developers.com/galaxy-s2/development-derivatives/kernel-dorimanx-lp-5-x-x-t3145879 "LP/MM XDA Kernel thread") - Development Discontinued:
+[KK DorimanX Kernel thread (i9100)](http://forum.xda-developers.com/galaxy-s2/development-derivatives/kernel-dorimanx-jb-4-4-4-t3123487 "KK XDA Kernel thread") - Development Discontinued - Latest Build: [10.50 v009 (STABLE)](https://www.androidfilehost.com/?fid=673368273298923578 "Download latest KK kernel from AFH")
+
+
+[LP/MM DorimanX Kernel thread (i9100)](http://forum.xda-developers.com/galaxy-s2/development-derivatives/kernel-dorimanx-lp-5-x-x-t3145879 "LP/MM XDA Kernel thread") - Development Discontinued - Latest Build: [12.0 b013 (STABLE)](https://www.androidfilehost.com/?fid=457095661767129657 "Download latest LP/MM kernel from AFH")
+
 
 # Downloads
-
-DorimanX kernel (i9100)
 
 [Android File Host Link](https://www.androidfilehost.com/?w=files&flid=36004 "Android File Host Download")
 
 [Github Releases Link](https://github.com/gsstudios/Dorimanx-SG2-I9100-Kernel/releases "Github Download") 
 
 # Authors and Contributors
-
-DorimanX kernel:
 
 Current Maintainer of the branch 10.XX, 12.XX: @gsstudios. 
 
