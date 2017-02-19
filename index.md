@@ -4,24 +4,19 @@ Here you can Download my current DorimanX kernel releases, view my kernel source
 
 # XDA Developers Threads
 
-JB DorimanX Kernel thread (i9100) - Development Discontinued:
-http://forum.xda-developers.com/galaxy-s2/development-derivatives/kernel-dorimanx-jb-4-2-x-t3167895
+[JB DorimanX Kernel thread (i9100)](http://forum.xda-developers.com/galaxy-s2/development-derivatives/kernel-dorimanx-jb-4-2-x-t3167895 "JB XDA Kernel thread") - Development Discontinued:
 
-KK DorimanX Kernel thread (i9100) - Development Discontinued:
-http://forum.xda-developers.com/galaxy-s2/development-derivatives/kernel-dorimanx-jb-4-4-4-t3123487
+[KK DorimanX Kernel thread (i9100)](http://forum.xda-developers.com/galaxy-s2/development-derivatives/kernel-dorimanx-jb-4-4-4-t3123487 "KK XDA Kernel thread") - Development Discontinued:
 
-LP/MM DorimanX Kernel thread (i9100) - Development Discontinued:
-http://forum.xda-developers.com/galaxy-s2/development-derivatives/kernel-dorimanx-lp-5-x-x-t3145879
+[LP/MM DorimanX Kernel thread (i9100)](http://forum.xda-developers.com/galaxy-s2/development-derivatives/kernel-dorimanx-lp-5-x-x-t3145879 "LP/MM XDA Kernel thread") - Development Discontinued:
 
 # Downloads
 
 DorimanX kernel (i9100)
 
-Android file host:
-https://www.androidfilehost.com/?w=files&flid=36004
+[Android File Host Link](https://www.androidfilehost.com/?w=files&flid=36004 "Android File Host Download")
 
-Github: 
-https://github.com/gsstudios/Dorimanx-SG2-I9100-Kernel/releases
+[Github Releases Link](https://github.com/gsstudios/Dorimanx-SG2-I9100-Kernel/releases "Github Download") 
 
 # Authors and Contributors
 
@@ -35,13 +30,10 @@ Original Author and all the credits go to @dorimanx.
  
 # Source
 
-DorimanX kernel: 
+[Kernel Github Link](https://github.com/gsstudios/Dorimanx-SG2-I9100-Kernel "Github link to kernel source")
 
-https://github.com/gsstudios/Dorimanx-SG2-I9100-Kernel
-
-https://github.com/gsstudios/initramfs3
+[Initramfs Github Link](https://github.com/gsstudios/initramfs3 "Github link to initramfs source")
 
 # About Me
 
-XDA profile:
-http://forum.xda-developers.com/member.php?u=5811506
+[XDA Profile Link](http://forum.xda-developers.com/member.php?u=5811506 "Saber's XDA Profile :)")
