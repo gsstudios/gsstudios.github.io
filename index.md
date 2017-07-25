@@ -12,6 +12,8 @@ Here you can Download my current DorimanX kernel releases, view my kernel source
 
 [LP/MM DorimanX Kernel thread (i9100)](http://forum.xda-developers.com/galaxy-s2/development-derivatives/kernel-dorimanx-lp-5-x-x-t3145879 "LP/MM XDA Kernel thread") - Development Discontinued - Latest Build: [12.0 b013 (STABLE)](https://www.androidfilehost.com/?fid=457095661767129657 "Download latest LP/MM kernel from AFH")
 
+LOS14 DorimanX Kernel thread (i9100) - Coming Soon
+
 
 # Downloads
 
@@ -21,7 +23,7 @@ Here you can Download my current DorimanX kernel releases, view my kernel source
 
 # Authors and Contributors
 
-Current Maintainer of the branch 10.XX, 12.XX: @gsstudios. 
+Current Maintainer of the branch 10.XX-13.XX: @gsstudios. 
 
 Current Maintainer of branch 8.XX: @chhapil and @dragonGR. 
 
