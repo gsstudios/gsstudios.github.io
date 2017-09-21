@@ -12,7 +12,7 @@ Here you can Download my current DorimanX kernel releases, view my kernel source
 
 [LP/MM DorimanX Kernel thread (i9100)](http://forum.xda-developers.com/galaxy-s2/development-derivatives/kernel-dorimanx-lp-5-x-x-t3145879 "LP/MM XDA Kernel thread") - Development Discontinued - Latest Build: [12.0 b013 (STABLE)](https://www.androidfilehost.com/?fid=457095661767129657 "Download latest LP/MM kernel from AFH")
 
-[LOS14.1 DorimanX Kernel thread (i9100)](https://forum.xda-developers.com/galaxy-s2/development-derivatives/kernel-dorimanx-kernel-los14-1-t3641994) - Development Active - Latest Build: [13.0 b005](https://www.androidfilehost.com/?w=files&flid=201577 "Download latest LOS14.1 kernel from Github")
+[LOS14.1 DorimanX Kernel thread (i9100)](https://forum.xda-developers.com/galaxy-s2/development-derivatives/kernel-dorimanx-kernel-los14-1-t3641994) - Development Discontinued - Latest Build: [13.0 b005](https://www.androidfilehost.com/?w=files&flid=201577 "Download latest LOS14.1 kernel from Github")
 
 
 # Downloads
